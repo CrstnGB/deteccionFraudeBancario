@@ -1,0 +1,15 @@
+# Estos archivos son muy grandes para subir a github
+**/X_train_img.npy
+**/X_val_img.npy
+**/X_test_img.npy
+**/Base.csv
+# Se evita que se suba la carpeta con elementos antiguos
+old/*
+# Ignorar archivos temporales de Word/Excel
+**/~$*
+# Ignorar archivos de bk
+**/.$*
+# Ignorar archivos temporales en general
+**/*.tmp
+# Ignorar entorno virtual
+**/venv
