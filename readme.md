@@ -1,11 +1,11 @@
-# Detección de Fraudes Bancarios con Deep Learning
+# Detección de fraude en movimientos transaccionales con Deep Learning
 
 ## Descripción del Proyecto
 Este proyecto aborda el desafío de la **detección de fraudes bancarios en línea**, un problema crítico en el contexto actual de la banca digital. El objetivo principal es aplicar técnicas de **deep learning** para identificar transacciones fraudulentas, contribuyendo a la seguridad en el sector financiero.
 
 ### Criterios de Éxito
 - **Alta tasa de detección de fraudes** (sensibilidad > 80%).
-- **Precisión moderada**, permitiendo una mayor tolerancia a falsos positivos.
+- **Precisión moderada**, permitiendo una mayor tolerancia a falsos positivos. (precision )
 - **Exactitud general alta**, asegurando un equilibrio entre la detección de fraudes y la minimización de errores.
 
 ---
