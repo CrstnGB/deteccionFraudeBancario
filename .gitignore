@@ -13,3 +13,5 @@ old/*
 **/*.tmp
 # Ignorar entorno virtual
 **/venv
+# Se ignora el archivo word
+14MBID_TFM_Cristian_Guerrero_Balber.docx
