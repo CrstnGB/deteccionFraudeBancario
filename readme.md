@@ -1,4 +1,4 @@
-# Detección de fraude en movimientos transaccionales con Deep Learning
+# Detección de fraude en movimientos transaccionales con Redes Neuronales Profundas y Redes Neuronales Convolucionales
 
 ## Descripción del Proyecto
 Este proyecto aborda el desafío de la **detección de fraudes bancarios en línea**, un problema crítico en el contexto actual de la banca digital. El objetivo principal es aplicar técnicas de **deep learning** para identificar transacciones fraudulentas, contribuyendo a la seguridad en el sector financiero.
